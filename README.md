@@ -1,0 +1,1 @@
+Linear regression, decision tree, and gradient boosting models tranined on [this kaggle dataset]([url](https://www.kaggle.com/datasets/steveahn/memory-test-on-drugged-islanders-data)https://www.kaggle.com/datasets/steveahn/memory-test-on-drugged-islanders-data) using scikit-learn library.
